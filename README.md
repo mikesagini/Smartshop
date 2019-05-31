@@ -1,3 +1,1 @@
-# Smarthop
-
 # Smartshop
